@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'hello hannah kim it is basic site info name',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.itasdf',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.itasdf', // FIXME: change to your domain
   author: 'han-nah Kim',
   // name: 'Next.js Notion Starter Kit',
   // domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
